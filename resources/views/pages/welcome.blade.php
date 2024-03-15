@@ -4,7 +4,10 @@
 
 
 
-@section('content')
-    <h1>welcome page</h1>
+@section('main')
+<main>
+
+    <h1 class="text-center">welcome page</h1>
+</main>
      
 @endsection

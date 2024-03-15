@@ -13,15 +13,14 @@
 </head>
 
 <body>
-    <header>
+    {{-- <header>
         @include('components.header')
-    </header>
+    </header> --}}
 
-    <main>
-        <div>
-            @yield('content')
-        </div>
-    </main>
+    
+            @yield('main')
+
+
 </body>
 
 </html>
